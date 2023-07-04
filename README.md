@@ -5,4 +5,4 @@
 <br>
 <p> Este projeto é uma tela somente inspirada em uma locadora de imóveis . </p>
 <a href="https://lucmlc.github.io/Projeto-positive../">Site publicado</a>
-<a><img src="https://github.com/LucMLC/Projeto-site-iphone/blob/Develop/img/Design%20sem%20nome%20(1).png?raw=true" alt="img-iphone"> </a>
+<a><img src="https://github.com/LucMLC/Projeto-positive../blob/main/assets/Design%20sem%20nome%20(1).png?raw=true"> </a>
