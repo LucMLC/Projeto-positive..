@@ -1,0 +1,181 @@
+* {
+    font-family: 'Darumadrop One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+    font-size: 14px;
+    color: #17233D;
+
+}
+
+.link-topo {
+    margin-right: 36px;
+    cursor: pointer;
+
+}
+
+.link-topo1 {
+    cursor: pointer;
+    margin-right: 36px;
+}
+
+.link-topo2 {
+    cursor: pointer;
+    margin-right: 36px;
+}
+
+.link-topo3 {
+    cursor: pointer;
+    margin-right: 36px;
+}
+
+button {
+    background: #4CB538;
+    width: 124px;
+    height: 51px;
+    color: #FFFFFF;
+    margin-right: 36px;
+    cursor: pointer;
+}
+
+main {
+    display: inline-block;
+    position: relative;
+}
+
+img {
+    width: 595.18px;
+    height: 500px;
+    margin: 177px 0px 278px 121px;
+    display: inline-block;
+}
+
+h1 {
+    font-size: 62px;
+    width: 582px;
+    height: 164px;
+    color: #161A49;
+    margin: 273px 57px 0px 96.83px;
+    display: inline-block;
+    position: absolute;
+}
+
+p {
+    width: 493px;
+    height: 99px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    margin: 500px 96.83px 0px 84.98px;
+    display: inline-block;
+    position: absolute;
+    color: #4B505A;
+}
+
+.learn {
+    width: 10080px;
+    height: 27px;
+
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    margin: 707px 500px 290px 84.98px;
+    display: inline-block;
+    position: absolute;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+
+
+    header {
+        width: 350px;
+        margin-left: 15px;
+        margin-right: 0px;
+        margin: 47px auto 10px auto;
+        align-items: center;
+
+
+    }
+
+    .link-topo {
+        margin-right: 10px;
+    }
+
+    .link-topo1 {
+        margin-right: 10px;
+    }
+
+    .link-topo2 {
+        margin-right: 10px;
+    }
+
+    .link-topo3 {
+        margin-right: 10px;
+    }
+
+    button {
+        width: 70px;
+        height: 30px;
+        color: #FFFFFF;
+        margin-right: 0px;
+        border-radius: 30px;
+    }
+
+    main {
+        display: block;
+    }
+
+    img {
+        width: 300px;
+        height: auto;
+        margin: auto;
+        display: block;
+        margin-top: 30px;
+
+    }
+
+    h1 {
+        position: static;
+        margin: 0;
+        display: block;
+        width: auto;
+        height: auto;
+        line-height: 20px;
+        font-size: 1.7em;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    p {
+        position: static;
+        margin: auto;
+        width: auto;
+        margin-top: 20px;
+        padding: 10px;
+    }
+
+    .learn {
+        margin: 0;
+        position: static;
+        display: block;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+
+}
